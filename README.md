@@ -3,8 +3,8 @@
   
   Integrantes:
   
-  Davi FLores
-  Frederico Machado
-  Guilherme Gratz
-  João Abruzzini
+  Davi FLores,
+  Frederico Machado,
+  Guilherme Gratz,
+  João Abruzzini e
   Vinícius Lucena
